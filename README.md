@@ -16,8 +16,6 @@ Each folder contains the source code (`.ino`, `.py`) and a detailed documentatio
 
 ## 📂 Laboratory Activities
 
-Individual README.md files of the respective lab activities can be found within their respective folders.
-
 ### [Laboratory Activity 1: Working with Digital Signals](./Laboratory%20Activity%20%231%3A%20Working%20with%20Digital%20Signals)
 * **Focus:** Digital Output, `digitalWrite()`
 * **Description:** A foundational project implementing a "Running Light" circuit. It demonstrates the control of multiple LEDs in a sequential pattern using digital high/low signals.
